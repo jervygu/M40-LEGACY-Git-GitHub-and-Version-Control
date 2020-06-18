@@ -1,0 +1,3 @@
+this is the first sentence in 2nd file
+
+2nd sentence in second file
